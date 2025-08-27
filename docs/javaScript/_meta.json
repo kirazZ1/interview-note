@@ -1,0 +1,22 @@
+[
+    {
+        "type": "file",
+        "name": "index",
+        "label": "JavaScript"
+    },
+    {
+        "type": "file",
+        "name": "javaScript-basic",
+        "label": "JavaScript 基础"
+    },
+     {
+        "type": "file",
+        "name": "javaScript-coding",
+        "label": "javaScript 手写题"
+    }, 
+     {
+        "type": "file",
+        "name": "javaScript-output",
+        "label": "javaScript 输出结果题"
+    }
+]

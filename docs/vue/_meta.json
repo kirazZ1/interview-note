@@ -1,0 +1,12 @@
+[
+    {
+        "type": "file",
+        "name": "index",
+        "label": "Vue"
+    },
+    {
+        "type": "file",
+        "name": "vue-basic",
+        "label": "Vue 基础"
+    }
+]
