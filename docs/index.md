@@ -17,7 +17,7 @@ hero:
 features:
   - title: 'JavaScript' 
     icon: <img src='/icons/icon-javascript.svg' />
-    link: /javaScript.html
+    link: /javaScript/index.html
   - title: 'Vue' 
     icon: <img src='/icons/icon-vue.svg' style='width:48px'/>
     link: /vue.html
