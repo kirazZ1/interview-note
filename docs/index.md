@@ -17,10 +17,10 @@ hero:
 features:
   - title: 'JavaScript' 
     icon: <img src='/icons/icon-javascript.svg' />
-    link: /javaScript/index.html
+    link: /javaScript.html
   - title: 'Vue' 
     icon: <img src='/icons/icon-vue.svg' style='width:48px'/>
-    link: /vue.html
+    # link: /vue.html
   - title: 'React'
     icon: <img src='/icons/icon-react.svg' style='width:48px'/>
   - title: 'CSS'
